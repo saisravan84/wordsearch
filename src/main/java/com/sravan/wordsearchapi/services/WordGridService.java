@@ -89,7 +89,7 @@ public class WordGridService {
                 }
             }
         }
-        randomFillGrid(contents);
+//        randomFillGrid(contents);
         return contents;
     }
 
