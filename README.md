@@ -1,4 +1,4 @@
-# wordsearch-api
-This is wordsearch-api for wordsearch game
+# wordsearch
+This is a wordsearch game
 
 Link to app: https://sravan-wordsearch-api.herokuapp.com/
